@@ -234,7 +234,7 @@ export default function Fifth_SP() {
               <div className="main-des-title-6-7">
                 {/* <div className='main-des-title-6'><b>Finalmente, los deudores están obteniendo hasta un<span style={{backgroundColor:"#fde047"}}> 100% de perdón financiero</span> bajo este programa respaldado por abogados, ¡Aquí está cómo!</b></div> */}
                 <b>
-                  Americans Over 65 Can Now Qualify For The
+                  Americans Over 61 Can Now Qualify For The
                   <span style={{ backgroundColor: "#fde047" }}>
                     {" "}
                     $3600 Grocery Allowance in 2023!
