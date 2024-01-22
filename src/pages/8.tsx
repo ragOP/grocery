@@ -6,7 +6,7 @@ import "./styles.scss";
 
 import { scrollTo } from "../utils";
 
-import Head_bgs from "../assets/hero11.jpg";
+import Head_bgs from "../assets/n.jpg";
 
 import Headline from "../assets/headline_spandeb1.png";
 
@@ -236,7 +236,7 @@ export default function Fifth_SP() {
                 <b>
   Americans Over 65 Can Now Qualify For The&nbsp;
   <span style={{ backgroundColor: "#fde047" }}>
-    $3600 Grocery Allowance in 2023!
+    $3600 Flex Card in 2024!
   </span>
 </b>
 
@@ -244,15 +244,10 @@ export default function Fifth_SP() {
               {/* <img className='topic-img-larger' src = {Headline} alt = "head"/> */}
               <img className="topic-img-middle" src={Head_bgs} alt="head" />
               <div className="main-des-5">
-                Americans over 65 years old can claim the 2023 Grocery Allowance
-                Card that gives them up to $3600. Americans can use the funds to
-                fully cover their Groceries, Medicines, etc. at Walmart and
-                thousands of other participating stores!
+              Americans over 65 years old can claim the 2024 Flex Card that gives them up to $3600. Americans can use the funds to fully cover their Groceries, Medicines, etc. at Walmart and thousands of other participating stores!
               </div>
               <div className="main-des-5" style={{ marginTop: "1rem" }}>
-                If you have not yet claimed your monthly allowance then answer
-                the questions below and once approved you will have your $3,600
-                Grocery Allowance mailed to you within a few days ready for use!
+              If you have not yet claimed your monthly allowance then answer the questions below and once approved you will have your $3,600 Flex Card mailed to you within a few days ready for use!
               </div>
               {/* <div className='main-des-5' style = {{marginTop:"1rem"}}><b>Simplemente responda las siguientes preguntas:</b></div> */}
             </div>
@@ -279,13 +274,13 @@ export default function Fifth_SP() {
         <div className="checking">
           <div className="congrats">Congratulation, You Qualify!</div>
           <div className="top-description-5">
-            <b>Make A Quick Call To Claim Your Grocery Allowance!</b>
+            <b>Make A Quick Call To Claim Your $3600 Flex Card!</b>
           </div>
           <div className="spots-count">Spots remaining: 4</div>
           <div className="tap-direction">👇 TAP BELOW TO CALL 👇</div>
-          <a href="tel:+18559271877">
+          <a href="tel:+17732856024">
             <div className="call-btn" onClick={handleCall}>
-            CALL (855) 927-1877
+            CALL (773) 285-6024
             </div>
           </a>
           <div className="sub-title">We Have Reserved Your Spot</div>
